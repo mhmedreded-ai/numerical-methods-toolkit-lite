@@ -1,0 +1,12 @@
+# Mathematical Engine & Symbolic Computation
+sympy>=1.12
+numpy>=1.22.0
+
+# Desktop GUI & Plotting Visualizer
+customtkinter>=5.2.0
+matplotlib>=3.7.0
+pillow>=9.5.0
+
+# Cross-Platform Arabic Reshaping & BiDi Rendering
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
